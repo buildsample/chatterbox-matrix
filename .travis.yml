@@ -1,5 +1,5 @@
 # TravisCI config file. See http://travis-ci.org
-language: python
+language: pythoncc
 
 python
   - 2.6
